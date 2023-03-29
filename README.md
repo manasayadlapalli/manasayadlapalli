@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am an individual with a passion for technology and a strong desire to explore various fields and the technologies associated with them.
+Hi, I am Manasa, passionate about technology, and have a strong desire to explore various fields and the technologies associated with them.
+Contact me at saimanasayadlapalli@gmail.com
 
 
 ## 🌐 Socials:
