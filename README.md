@@ -2,14 +2,14 @@ Hey there, I'm Sai Manasa Yadlapalli! 👋 <br/> <br/>
 👨🏻‍💻 About Me <br/>
  * 🤔   Exploring new technologies and developing software solutions. <br/>
  * 💼   Experienced Software Engineer at TCS. <br/>
- * 🎓   Pursuing MS in Software Engineering at San Jose State University <br/>
+ * 🎓   MSSE SJSU graduate <br/>
  *🌱   Learning more about Full-stack development Cloud Architecture, and Systems Design. <br/>
- * 👯   I enjoy dancing, working out, and baking. <br/> <br/>
+ * 👯   I enjoy dancing, working out, and cooking (Especially baking). <br/> <br/>
 🛠 Tech Stack <br/>
  * 💻   Python | C | Java <br/>
  * 🌐   HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS | Redux | Express.js | RESTfull APIs | Apache Kafka | GraphQL <br/>
  * 🛢   MySQL | MongoDB <br/>
- * 🖥   PowerBI | Tableau | Data Analytics <br>
+ * 🖥   PowerBI | Tableau | Dash Plotly | Data Analytics <br>
  * 🔧   Git | Excel <br/>
 
 
