@@ -1,7 +1,7 @@
 Hey there, I'm Sai Manasa Yadlapalli! 👋 <br/> <br/>
 👨🏻‍💻 About Me <br/>
  * 🤔   Exploring new technologies and developing software solutions. <br/>
- * 💼   Experienced Software Engineer at TCS. <br/>
+ * 💼   Research Assistant @SJSU and experienced Software Engineer @TCS. <br/>
  * 🎓   MSSE SJSU graduate <br/>
  *🌱   Learning more about Full-stack development Cloud Architecture, and Systems Design. <br/>
  * 👯   I enjoy dancing, working out, and cooking (Especially baking). <br/> <br/>
