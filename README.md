@@ -1,17 +1,7 @@
-Hey there, I'm Sai Manasa Yadlapalli! 👋 <br/> <br/>
+Hey there, I'm  Manasa! 👋 <br/> <br/>
 👨🏻‍💻 About Me <br/>
- * 🤔   Exploring new technologies and developing software solutions. <br/>
- * 💼   Research Assistant @SJSU and experienced Software Engineer @TCS. <br/>
- * 🎓   MSSE SJSU graduate <br/>
- *🌱   Learning more about Full-stack development Cloud Architecture, and Systems Design. <br/>
- * 👯   I enjoy dancing, working out, and cooking (Especially baking). <br/> <br/>
-🛠 Tech Stack <br/>
- * 💻   Python | C | Java <br/>
- * 🌐   HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS | Redux | Express.js | RESTfull APIs | Apache Kafka | GraphQL <br/>
- * 🛢   MySQL | MongoDB <br/>
- * 🖥   PowerBI | Tableau | Dash Plotly | Data Analytics <br>
- * 🔧   Git | Excel <br/>
-
+ * 💼   Intern at a startup (Homepulse.ai), Research Assistant @SJSU and experienced Software Engineer @TCS. <br/>
+ * 🎓   SJSU alumni <br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saimanasayadlapalli/) 
